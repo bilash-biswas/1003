@@ -6,6 +6,6 @@ var
 begin
     read(a);
     read(b);
-    x := a+b;
-    writeln('SOMA = ',x);
+    x := a + b;
+    writeln('SOMA = ', x);
 end.
