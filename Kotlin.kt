@@ -4,5 +4,5 @@ fun main(args: Array<String>) {
     var num1 = read.nextInt()
     var num2 = read.nextInt()
 
-    println("SOMA = "+(num1+num2))
+    println("SOMA = " + (num1 + num2))
 }
