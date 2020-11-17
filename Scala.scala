@@ -4,6 +4,6 @@ object Main {
     var a = scala.io.StdIn.readInt()
     var b = scala.io.StdIn.readInt()
 
-    println("SOMA = "+(a+b))
+    println("SOMA = " + (a + b))
   }
 }
